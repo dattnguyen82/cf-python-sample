@@ -1,0 +1,1 @@
+web: python cf-python-sample.py
